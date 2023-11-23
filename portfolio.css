@@ -1,0 +1,65 @@
+body{
+    padding: 20px;
+    
+}
+li{
+    word-spacing: 100px;
+    font-size: 30px;
+    font-weight:500;
+    text-align: left;
+}
+.navi{
+    background-color: white;
+    text-align: eft;
+}
+img{
+    height:150px;
+    font-weight: 1000;
+    width: 500px;
+    color: aqua;
+   
+}
+
+h1{
+    font-size:px;
+}
+#sign{
+    text-justify: left;
+}
+h1{
+    font-size:80px;
+    font-family:serif;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+}
+#about{
+    height: 900px;
+    width: 1200px;
+}
+h2{
+    line-height: 60px;
+    opacity: 0.7;
+}
+.icons {
+    display: inline;
+    height: 60px;
+    width: 60px;
+    word-spacing: 30px;
+    border-radius: 50%;
+}
+button{
+    height:60px;
+    width: 150px;
+    font-size: 22px;
+    border-radius: 10%;
+    color: white;
+    background-color:#5ecef4;
+    border-color:#5ecef4 ;
+    border-style: dotted;
+}
+#b2{
+    font-size: 22px;
+    width: 200px;
+}
